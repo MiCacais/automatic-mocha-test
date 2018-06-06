@@ -1,0 +1,5 @@
+# Automatic tests using Mocha
+
+This is a very simple code in Node JS that uses Mocha to make some automatic tests. I followed the tutorial seen in [this site](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha).
+
+Tu run the test, go to the terminal and just type `npm test`.
